@@ -65,17 +65,6 @@ To become a proficient and impactful **Data Scientist**, applying data-driven so
 
 - 📧 Email: muskannagpal933@gmail.com
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskan-nagpal&show_icons=true&theme=default" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=muskan-nagpal&theme=default" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-nagpal&layout=compact" />
-</p>
 
 ---
 
